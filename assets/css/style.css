@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+:root {
+    --color1: rgba(13, 13, 94);
+    --color2: rgb(211, 211, 211);
+    --white: rgb(255, 255, 255);
+}
+header {
+    padding:25px;
+    margin:15px;
+    font-size: 10px;
+}
+/* Styling for timer left countdown and score*/
+.countdown, .score {
+    text-align: right;
+    font-size: 1.5vw;
+}
+/*Format for the main part of page*/
+.page-content {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 50px;
+}
+/* Styling for objects inside of page content*/
+.question-list-wrapper {
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+}
+.question {
+    font-size: 25px;
+}
+#discription {
+    font-size: 18px;
+}
+.hidden {
+    display: none;
+}
+.questions {
+    font-size: 20px;
+}
+.choices {
+    font-size: 15px;
+    display: block;
+    margin: 15px;
+}
+#heading {
+    font-size: 25px;
+}
+.btn {
+    background-color: rgba(13, 13, 94, 1);
+}
+.score-screen{
+    font-size: 15px;
+    display: block;
+    text-align: center;
+}
