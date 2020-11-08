@@ -1,13 +1,23 @@
-# Coding-quiz
+# Project Name
+> CODE QUIZ
 
-## Deployed application is available at: 
-https://github.com/NicholasDelaGarza/quiz-code.git
+## Table of contents
+* [General info](#general-info)
+* [Features](#features)
+* [Status](#status)
+* [Contact](#contact)
 
-## Features: 
+## General info
+Add more general information about project. What the purpose of the project is? Motivation?
+
+## Features
+List of features ready 
 * Upon go, quiz starts and the timer starts
 * 6 HTML/JS/CSS styled questions that appear one after another
 * score can be tracked while doig te quiz 
 
-### Screenshot of the application: 
+## Status
+Project is: completed
 
-![Screenshot](/assets/images/screenshot.png)
+## Contact
+Created by Nicholas De La Garza , contact me at nickdelagarza87@gmail.com
